@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Shahzad Ahamad 👋</h2>
+<h1 align="center">Hi, I'm Shahzad Ahamad 👋</h1>
 
 <h2>About Me</h2>
 
@@ -6,7 +6,7 @@
 - Explored **microservices architecture**.
 - Interested in **software development and problem-solving**.
 
-<h3>My Skills in Tech</h3>
+<h2>My Skills in Tech</h2>
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-<h3>Connect With Me</h3>
+<h2>Connect With Me</h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shahzad-ahamad-p" target="_blank">

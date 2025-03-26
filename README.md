@@ -1,16 +1,23 @@
-## Hi, I'm Shahzad 👋
+<h2 align="center">Hi, I'm Shahzad 👋</h2>
 
-<!--
-**shahzadahamad/shahzadahamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- **MERN Stack Developer** (MongoDB, Express, React, Node.js).
+- Explored **microservices architecture**.
+- Interested in **software development and problem-solving**.
 
-Here are some ideas to get you started:
+### 🛠️ My Skills in Tech
+- **Languages:** JavaScript, TypeScript, Node.js
+- **Backend:** Express.js, Socket.IO, MongoDB, PostgreSQL
+- **Frontend:** React.js, Ejs, Tailwind CSS, Bootstrap
+- **Other**: Microservices, JWT Authentication, AWS(EC2 ,S3), CI/CD, WebSockets, Data Structures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect With Me
+<p align="left">
+  <a href="www.linkedin.com/in/shahzad-ahamad-p" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:shahzadahamadp@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+

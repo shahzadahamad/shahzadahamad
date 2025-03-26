@@ -1,11 +1,13 @@
 <h2 align="center">Hi, I'm Shahzad Ahamad 👋</h2>
 
-### About Me
+<h3>About Me</h3>
+
 - **MERN Stack Developer** (MongoDB, Express, React, Node.js).
 - Explored **microservices architecture**.
 - Interested in **software development and problem-solving**.
 
-### My Skills in Tech
+<h3>My Skills in Tech</h3>
+
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
@@ -30,7 +32,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-### Connect With Me
+<h3>Connect With Me</h3>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/shahzad-ahamad-p" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">

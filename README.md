@@ -9,7 +9,7 @@
 - **Languages:** JavaScript, TypeScript, Node.js
 - **Backend:** Express.js, Socket.IO, MongoDB, PostgreSQL
 - **Frontend:** React.js, Ejs, Tailwind CSS, Bootstrap
-- **Other**: Microservices, JWT Authentication, AWS(EC2 ,S3), CI/CD, WebSockets, Data Structures
+- **Other**: Microservices, JWT Authentication, AWS(EC2, S3), CI/CD, WebSockets, Data Structures, Payment Gateways (Razorpay, Stripe)
 
 ### Connect With Me
 <p align="left">

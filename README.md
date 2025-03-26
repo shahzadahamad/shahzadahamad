@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Shahzad Ahamad 👋</h2>
 
-<h3>About Me</h3>
+<h3>About Me</h3><hr>
 
 - **MERN Stack Developer** (MongoDB, Express, React, Node.js).
 - Explored **microservices architecture**.

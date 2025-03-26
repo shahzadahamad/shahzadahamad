@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Shahzad 👋</h2>
+<h2 align="center">Hi, I'm Shahzad Ahamad 👋</h2>
 
 ### About Me
 - **MERN Stack Developer** (MongoDB, Express, React, Node.js).

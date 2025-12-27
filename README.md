@@ -5,7 +5,7 @@
 - **MERN Stack Developer** (MongoDB, Express, React, Node.js).
 - Explored **microservices architecture**.
 - Interested in **software development and problem-solving**.
-- I’m currently learning **Flutter**
+- I’m currently learning **Python**
 
 <h2>My Skills in Tech</h2>
 
